@@ -1,0 +1,1 @@
+This Python code implements a simple Tic Tac Toe game with an AI opponent using the Pygame library. The game supports two modes: player versus player (PvP) and player versus AI (Artificial Intelligence). The AI uses the minimax algorithm to determine its moves.
